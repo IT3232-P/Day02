@@ -10,4 +10,6 @@ This project demonstrates a simple Spring Boot web service application created o
     - Output1.png, Output2.png, Output3.png - Screenshots showing endpoint responses
 
 ### Output
-![Output](output.png)
+![Output](Day02-Output01.png)
+![Output](Day02-Output02.png)
+![Output](Day02-Output03.png)
